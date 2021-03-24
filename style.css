@@ -1,5 +1,3 @@
-
-
 /*header css start form here*/
 .container-fluid
 {
@@ -44,4 +42,50 @@
     color: white;
     border:2px solid #21B573;
    
+}
+
+/*Infomation-section css start form here*/
+
+.col-style
+{
+    background-color:#F8FFFB;
+    padding:20px 40px;
+}
+#shadow-effect
+{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    border-radius: 5px;
+}
+
+/*card-deck css start form here*/
+.card
+{
+    padding: 10px;
+    box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
+    border: none;
+    }
+.btn-resize
+{
+    padding: 5px 20px;
+}
+.card-footer
+{
+    background-color: white;
+    border-top: none;
+}
+
+/*Datails css start form here*/
+#container-fluid-2
+{
+    background-color:#282531 ;
+    color: white;
+}
+.datails-section ul li
+{
+    list-style-type: none;
+    
+}
+.datails-section
+{
+    padding: 20px;
 }
